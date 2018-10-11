@@ -7,7 +7,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Jesus Image](/img/jesus-name-on-wall.jpg)
 
 ## The Bible
 
